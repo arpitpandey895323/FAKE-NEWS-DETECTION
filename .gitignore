@@ -1,0 +1,7 @@
+venv/
+users.db
+users.db-journal
+__pycache__/
+*.pyc
+.DS_Store
+.env
